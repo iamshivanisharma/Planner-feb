@@ -1,4 +1,4 @@
 Planner for Girlscript
 <Tentative Dates>
-Feb 17
-Feb 18
+Feb 17 Introduction toABC
+Feb 23 Continuting ABC
